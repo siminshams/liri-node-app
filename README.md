@@ -43,7 +43,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
        * Plot of the movie.
        * Actors in the movie.
      ```
-    ![movie-this screenshot](../master/images/movie-this.png)
+    ![movie-this screenshot](../master/Images/movie-this.png)
 
 4)node liri.js do-what-it-says
 
