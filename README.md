@@ -12,6 +12,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
      
      ![concert-this screenshot](../master/Images/concert-this.png)
+     
 
 2) node liri.js spotify-this-song '<song name here>'
 
@@ -42,7 +43,8 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
     * Plot of the movie.
     * Actors in the movie.
      
-    ![movie-this screenshot](../master/Images/movie-this.png)
+   ![movie-this screenshot](../master/Images/movie-this.png)
+   
 
 4)node liri.js do-what-it-says '<do-what-it-says name here>'
 
