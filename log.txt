@@ -1,0 +1,1130 @@
+
+concert-this, 
+--------------------------------------
+
+concert-this, adel
+--------------------------------------
+Borgen Norrköping
+Norrkoping, Sweden
+Date of Event: 11/01/2018
+--------------------------------------
+
+concert-this, lopez
+--------------------------------------
+
+concert-this, britny
+--------------------------------------
+
+concert-this, drake
+--------------------------------------
+Oracle Arena
+Oakland, CA, United States
+Date of Event: 10/26/2018
+--------------------------------------
+Oracle Arena
+Oakland, CA, United States
+Date of Event: 10/27/2018
+--------------------------------------
+San Francisco City Hall
+San Francisco, CA, United States
+Date of Event: 10/26/2018
+--------------------------------------
+Tacoma Dome
+Tacoma, WA, United States
+Date of Event: 11/01/2018
+--------------------------------------
+Oracle Arena
+Oakland, CA, United States
+Date of Event: 10/29/2018
+--------------------------------------
+Rogers Arena
+Vancouver, Canada
+Date of Event: 11/03/2018
+--------------------------------------
+Rogers Place
+Edmonton, Canada
+Date of Event: 11/06/2018
+--------------------------------------
+Rogers Place
+Edmonton, Canada
+Date of Event: 11/07/2018
+--------------------------------------
+Rogers Arena
+Vancouver, Canada
+Date of Event: 11/04/2018
+--------------------------------------
+Enterprise Center
+Saint Louis, MO, United States
+Date of Event: 11/10/2018
+--------------------------------------
+AmericanAirlines Arena
+Miami, FL, United States
+Date of Event: 11/13/2018
+--------------------------------------
+AmericanAirlines Arena
+Miami, FL, United States
+Date of Event: 11/14/2018
+--------------------------------------
+State Farm Arena
+Atlanta, GA, United States
+Date of Event: 11/16/2018
+--------------------------------------
+Chateau Le Jardin Event Venue
+Woodbridge, Canada
+Date of Event: 11/29/2018
+--------------------------------------
+Accorhotels Arena
+Paris, France
+Date of Event: 03/08/2019
+--------------------------------------
+State Farm Arena
+Atlanta, GA, United States
+Date of Event: 11/17/2018
+--------------------------------------
+Accorhotels Arena
+Paris, France
+Date of Event: 03/09/2019
+--------------------------------------
+
+undefined, 
+--------------------------------------
+
+concert-this, justin
+--------------------------------------
+Salle Des Richardieres
+Monchy-sur-eu, France
+Date of Event: 10/20/2018
+--------------------------------------
+Dupont Underground
+Washington, DC, United States
+Date of Event: 11/02/2018
+--------------------------------------
+
+concert-this, the blaze
+--------------------------------------
+Showbox SoDo
+Seattle, WA, United States
+Date of Event: 10/22/2018
+--------------------------------------
+The Wiltern
+Los Angeles, CA, United States
+Date of Event: 10/26/2018
+--------------------------------------
+Concord Music Hall
+Chicago, IL, United States
+Date of Event: 10/30/2018
+--------------------------------------
+The Regency Ballroom
+San Francisco, CA, United States
+Date of Event: 10/25/2018
+--------------------------------------
+Knockdown Center
+Maspeth, NY, United States
+Date of Event: 11/03/2018
+--------------------------------------
+Summit Music Hall
+Denver, CO, United States
+Date of Event: 10/28/2018
+--------------------------------------
+The Fillmore Silver Spring presented by Cricket Wireless
+Silver Spring, MD, United States
+Date of Event: 11/04/2018
+--------------------------------------
+Ancienne Belgique
+Brussels, Belgium
+Date of Event: 03/11/2019
+--------------------------------------
+TivoliVredenburg
+Utrecht, Netherlands
+Date of Event: 03/14/2019
+--------------------------------------
+MTELUS
+Montreal, Canada
+Date of Event: 11/07/2018
+--------------------------------------
+Roundhouse
+London, United Kingdom
+Date of Event: 03/12/2019
+--------------------------------------
+VEGA - Musikkens Hus, Store Vega
+København V, Denmark
+Date of Event: 03/17/2019
+--------------------------------------
+C-Halle
+Berlin-altglienicke, Germany
+Date of Event: 03/18/2019
+--------------------------------------
+Salle Pleyel
+Paris, France
+Date of Event: 03/15/2019
+--------------------------------------
+Klub Stodoła
+Warszawa, Poland
+Date of Event: 03/19/2019
+--------------------------------------
+Salle Pleyel
+Paris, France
+Date of Event: 03/23/2019
+--------------------------------------
+Salle Pleyel
+Paris, France
+Date of Event: 03/22/2019
+--------------------------------------
+
+concert-this, pink
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Tampa, FL, United States
+Date of Event: 03/03/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Jacksonville, FL, United States
+Date of Event: 03/05/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Charlotte, NC, United States
+Date of Event: 03/09/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Nashville, TN, United States
+Date of Event: 03/10/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbia, SC, United States
+Date of Event: 03/07/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Atlanta, GA, United States
+Date of Event: 03/12/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Birmingham, AL, United States
+Date of Event: 03/14/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Bossier City, LA, United States
+Date of Event: 03/16/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New Orleans, LA, United States
+Date of Event: 03/17/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Houston, TX, United States
+Date of Event: 03/19/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Antonio, TX, United States
+Date of Event: 03/21/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Dallas, TX, United States
+Date of Event: 03/24/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Oklahoma City, OK, United States
+Date of Event: 03/23/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Glendale, AZ, United States
+Date of Event: 03/30/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Salt Lake City, UT, United States
+Date of Event: 04/03/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Denver, CO, United States
+Date of Event: 04/01/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Vancouver, Canada
+Date of Event: 04/05/2019
+--------------------------------------
+Venue: Pepsi Live at Rogers Arena
+Vancouver, Canada
+Date of Event: 04/06/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Sacramento, CA, United States
+Date of Event: 04/10/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Portland, OR, United States
+Date of Event: 04/08/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: San Jose, CA, United States
+Date of Event: 04/17/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Las Vegas, NV, United States
+Date of Event: 04/12/2019
+--------------------------------------
+Venue: Little Caesars Arena 
+Venue Location: Detroit, MI, United States
+Date of Event: 04/26/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Los Angeles, CA, United States
+Date of Event: 04/19/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Detroit, MI, United States
+Date of Event: 04/27/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Indianapolis, IN, United States
+Date of Event: 04/30/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Fargo, ND, United States
+Date of Event: 05/04/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Milwaukee, WI, United States
+Date of Event: 05/02/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: St Paul, MN, United States
+Date of Event: 05/05/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Omaha, NE, United States
+Date of Event: 05/07/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Lexington, KY, United States
+Date of Event: 05/09/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Columbus, OH, United States
+Date of Event: 05/11/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Montreal, Canada
+Date of Event: 05/18/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: Sunrise, FL, United States
+Date of Event: 03/01/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Venue Location: New York, NY, United States
+Date of Event: 05/21/2019
+--------------------------------------
+Venue: Bell Centre 
+Montreal, Canada
+Date of Event: 05/17/2019
+--------------------------------------
+Venue: Air Canada Centre
+Toronto, Canada
+Date of Event: 05/14/2019
+--------------------------------------
+Venue: Johan Cruijff Stadium
+Amsterdam, Netherlands
+Date of Event: 06/16/2019
+--------------------------------------
+Venue: Madison Square Garden
+Venue Location: New York, NY, United States
+Date of Event: 05/22/2019
+--------------------------------------
+Venue: RDS
+Dublin, Ireland
+Date of Event: 06/18/2019
+--------------------------------------
+Venue: P!NK: BEAUTIFUL TRAUMA WORLD TOUR
+Toronto, Canada
+Date of Event: 05/13/2019
+--------------------------------------
+Venue: Anfield Stadium
+Liverpool, United Kingdom
+Date of Event: 06/25/2019
+--------------------------------------
+Venue: Principality Stadium
+Cardiff, United Kingdom
+Date of Event: 06/20/2019
+--------------------------------------
+Venue: Hampden Park
+Glasgow, United Kingdom
+Date of Event: 06/22/2019
+--------------------------------------
+Venue: Rock Werchter Festival 
+Werchter, Belgium
+Date of Event: 06/27/2019
+--------------------------------------
+Venue: Hampden Park
+Glasgow, United Kingdom
+Date of Event: 06/23/2019
+--------------------------------------
+Venue: Wembley Stadium
+London, United Kingdom
+Date of Event: 06/29/2019
+--------------------------------------
+Venue: Wembley Stadium
+London, United Kingdom
+Date of Event: 06/30/2019
+--------------------------------------
+Venue: La Defense Arena
+Paris, France
+Date of Event: 07/03/2019
+--------------------------------------
+Venue: Rhein Energie Stadion
+Cologne, Germany
+Date of Event: 07/06/2019
+--------------------------------------
+Venue: Rhein Energie Stadion
+Cologne, Germany
+Date of Event: 07/05/2019
+--------------------------------------
+Venue: Volksparkstadion
+Hamburg, Germany
+Date of Event: 07/08/2019
+--------------------------------------
+Venue: Mercedes-Benz Arena
+Stuttgart, Germany
+Date of Event: 07/10/2019
+--------------------------------------
+Venue: PGE Narodowy Stadium
+Warsaw, Poland
+Date of Event: 07/20/2019
+--------------------------------------
+Venue: Commerzbank Arena
+Frankfurt, Germany
+Date of Event: 07/22/2019
+--------------------------------------
+Venue: Olympiastadion Berlin
+Berlin, Germany
+Date of Event: 07/14/2019
+--------------------------------------
+Venue: Letzigrund Stadium
+Zürich, Switzerland
+Date of Event: 07/30/2019
+--------------------------------------
+Venue: Olympiastadion Munchen
+München, Germany
+Date of Event: 07/26/2019
+--------------------------------------
+Venue: HDI Arena
+Hannover, Germany
+Date of Event: 07/12/2019
+--------------------------------------
+Venue: Ernst Happel Stadium
+Wien, Austria
+Date of Event: 07/24/2019
+--------------------------------------
+Venue: Tele2 Arena
+Stockholm, Sweden
+Date of Event: 08/03/2019
+--------------------------------------
+Venue: Olympiastadion Munchen
+München, Germany
+Date of Event: 07/27/2019
+--------------------------------------
+
+concert-this, taylor swift
+--------------------------------------
+Venue: Marvel Stadium
+Docklands, Australia
+Date of Event: 10/26/2018
+--------------------------------------
+Venue: The Gabba
+Woolloongabba, Australia
+Date of Event: 11/06/2018
+--------------------------------------
+Venue: ANZ Stadium
+Sydney Olympic Park, Australia
+Date of Event: 11/02/2018
+--------------------------------------
+Venue: Mt Smart Stadium
+Auckland, New Zealand
+Date of Event: 11/09/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/21/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/20/2018
+--------------------------------------
+
+concert-this, Adel
+--------------------------------------
+
+concert-this, adel
+--------------------------------------
+Venue: Borgen Norrköping
+Norrkoping, Sweden
+Date of Event: 11/01/2018
+--------------------------------------
+
+movie-this, 
+--------------------------------------
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+concert-this, 
+--------------------------------------
+
+concert-this, Jennifer
+--------------------------------------
+Venue: World Cafe Live
+Venue Location: Philadelphia, PA, United States
+Date of Event: 10/27/2018
+--------------------------------------
+
+concert-this, Jennifer lopez
+--------------------------------------
+
+concert-this, lopez
+--------------------------------------
+
+concert-this, adel
+--------------------------------------
+Venue: Borgen Norrköping
+Norrkoping, Sweden
+Date of Event: 11/01/2018
+--------------------------------------
+
+concert-this, taylor swift
+--------------------------------------
+Venue: Marvel Stadium
+Docklands, Australia
+Date of Event: 10/26/2018
+--------------------------------------
+Venue: The Gabba
+Woolloongabba, Australia
+Date of Event: 11/06/2018
+--------------------------------------
+Venue: ANZ Stadium
+Sydney Olympic Park, Australia
+Date of Event: 11/02/2018
+--------------------------------------
+Venue: Mt Smart Stadium
+Auckland, New Zealand
+Date of Event: 11/09/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/20/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/21/2018
+--------------------------------------
+
+concert-this, taylor swift
+--------------------------------------
+Venue: Marvel Stadium
+Venue Location: Docklands, , Australia
+Date of Event: 10/26/2018
+--------------------------------------
+Venue: ANZ Stadium
+Venue Location: Sydney Olympic Park, , Australia
+Date of Event: 11/02/2018
+--------------------------------------
+Venue: The Gabba
+Venue Location: Woolloongabba, , Australia
+Date of Event: 11/06/2018
+--------------------------------------
+Venue: Mt Smart Stadium
+Venue Location: Auckland, , New Zealand
+Date of Event: 11/09/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/21/2018
+--------------------------------------
+Venue: Tokyo Dome
+Venue Location: Tokyo, Tokyo, Japan
+Date of Event: 11/20/2018
+--------------------------------------
+
+spotift-this, sorry
+--------------------------------------
+
+spotift-this, 
+--------------------------------------
+
+spotift-this, Uptown Funk
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+
+spotify-this, uptown funk
+--------------------------------------
+
+spotify-this, uptown funk
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+
+spotify-this, Uptown Funk
+--------------------------------------
+
+spotify-this, uptown funk
+--------------------------------------
+
+spotify-this, uptown funk
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+
+spotify-this, sorry
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+
+doWhatitSay, 
+--------------------------------------
+
+spotify-this, sorry
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+
+spotify-this, sorry
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+
+spotify-this, pink
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+
+spotify-this, hello
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: ZOO
+--------------------------------------
+Artist: Russ
+Song Title: The Flute Song
+Preview URL: https://p.scdn.co/mp3-preview/6b9988cf7aba1ca5793b417eb07edfff81312fa8?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Flute Song
+--------------------------------------
+Artist: Justin Timberlake
+Song Title: CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+Preview URL: https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: TROLLS (Original Motion Picture Soundtrack)
+--------------------------------------
+Artist: Rupert Holmes
+Song Title: Escape (The Pina Colada Song)
+Preview URL not available
+Album Title: Partners In Crime
+--------------------------------------
+Artist: Bruno Mars
+Song Title: The Lazy Song
+Preview URL: https://p.scdn.co/mp3-preview/6dda0f582db7db112f377d36df313cf04e706f27?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Doo-Wops & Hooligans
+--------------------------------------
+Artist: We The Kings
+Song Title: Sad Song (feat. Elena Coats)
+Preview URL: https://p.scdn.co/mp3-preview/f29734710566ec78be15b1dfc783f72187d20378?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Somewhere Somehow
+--------------------------------------
+Artist: Greta Van Fleet
+Song Title: Safari Song
+Preview URL not available
+Album Title: From The Fires
+--------------------------------------
+Artist: Fugees
+Song Title: Killing Me Softly With His Song
+Preview URL: https://p.scdn.co/mp3-preview/c8fef7f0c42941f08e11854ef261df937a37e177?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Score
+--------------------------------------
+Artist: Alabama
+Song Title: Song of the South
+Preview URL: https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection
+--------------------------------------
+Artist: Sam Smith
+Song Title: One Last Song
+Preview URL not available
+Album Title: The Thrill Of It All (Special Edition)
+--------------------------------------
+Artist: Francesca Battistelli
+Song Title: The Breakup Song
+Preview URL: https://p.scdn.co/mp3-preview/0517924e72e056b79372b666916b980ad7601bba?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: The Breakup Song
+--------------------------------------
+Artist: Selena Gomez & The Scene
+Song Title: Love You Like A Love Song
+Preview URL not available
+Album Title: When The Sun Goes Down
+--------------------------------------
+Artist: blink-182
+Song Title: Adam's Song
+Preview URL not available
+Album Title: Enema Of The State
+--------------------------------------
+Artist: Gregory Alan Isakov
+Song Title: The Stable Song
+Preview URL: https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0?cid=e4e024376ba74d929587a6a389c910a6
+Album Title: That Sea, The Gambler
+--------------------------------------
+Artist: Rachel House
+Song Title: I Am Moana (Song of the Ancestors)
+Preview URL not available
+Album Title: Moana (Original Motion Picture Soundtrack/Deluxe Edition)
+--------------------------------------
