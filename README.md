@@ -32,8 +32,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 3)node liri.js movie-this '<movie name here>'
 
    This will output the following information to your terminal/bash window:
-
-     ```
+     
        * Title of the movie.
        * Year the movie came out.
        * IMDB Rating of the movie.
@@ -42,10 +41,10 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
        * Language of the movie.
        * Plot of the movie.
        * Actors in the movie.
-     ```
+     
     ![movie-this screenshot](../master/Images/movie-this.png)
 
-4)node liri.js do-what-it-says
+4)node liri.js do-what-it-says '<do-what-it-says name here>'
 
 This uses the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
