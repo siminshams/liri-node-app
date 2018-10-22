@@ -11,7 +11,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
      
-     ![concert-this screenshot](../master/images/concert-this.png)
+     ![concert-this screenshot](../master/Images/concert-this.png)
 
 2) node liri.js spotify-this-song '<song name here>'
 
@@ -25,7 +25,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
      * The album that the song is from
 
-   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   * If no song is provided then your program will default to "The Sign" by Ace of Base
+
+   ![spotify-this-song screenshot](../master/Images/spotify-this-song.png)
 
 3)node liri.js movie-this '<movie name here>'
 
@@ -41,8 +43,17 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
        * Plot of the movie.
        * Actors in the movie.
      ```
-      ![movie-this screenshot](../master/images/movie-this.png)
+    ![movie-this screenshot](../master/images/movie-this.png)
 
 4)node liri.js do-what-it-says
 
 This uses the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+
+## Technologies Used
+-JavaScript, Node.js
+-[Dotenv](https://www.npmjs.com/package/dotenv)
+-[Request](https://www.npmjs.com/package/request)
+-[OMDb API](http://www.omdbapi.com/)
+-[Node Spotify API](https://www.npmjs.com/package/node-spotify-api)
+-[Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api) 
+-[Moment](https://www.npmjs.com/package/moment)
